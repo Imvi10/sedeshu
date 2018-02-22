@@ -1,0 +1,23 @@
+#login-box{
+    position: fixed;
+    left: 50%;
+    top: 33%;
+    transform: translate(-50%, -50%);
+    background-color: #FFF;
+    padding-top: 4%;
+    padding-bottom:  3%;
+    width: 40%;
+    border-radius: 4%;
+    text-align: center;
+}
+
+#container-img-login > img{
+    padding-left: -1em;
+    padding-right: -1em;
+}
+
+
+#particles-js{
+    height: 100%;
+    background: #013ca6;
+}
